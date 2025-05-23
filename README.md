@@ -38,5 +38,5 @@ This script implements an unsupervised anomaly detection system that:
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/anomaly-detection.git
+git clone https://github.com/yourusername/anomaly-detection.git](https://github.com/thinkrobotics/Anomaly-Detection-via-Contour-Segmentation.git
 cd anomaly-detection
